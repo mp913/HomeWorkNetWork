@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWorkNetWork</string>
+    <string name="sCreate">Hello, user</string>
+    <string name="sSendRequest">Sending request</string>
+</resources>
